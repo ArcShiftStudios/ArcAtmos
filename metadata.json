@@ -1,0 +1,6 @@
+{
+  "name": "ArcAtmos",
+  "description": "Weather that feels alive. Material 3 Expressive weather experience with dynamic atmosphere, large typography, and modular forecast cards by ArcShift Studios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
